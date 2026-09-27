@@ -97,6 +97,22 @@ A modern real estate filtering and search application built using
 
 ------------------------------------------------------------------------
 
+
+## Live Demo 
+[View Live Project](https://zaidabuazezi.github.io/real-estate-website/)
+
+
+## Preview
+
+![Home Page](screenshots/website.png)
+
+![Properties Section](screenshots/website2.png)
+
+![Search and Filter](screenshots/website3.png)
+
+![Responsive View](screenshots/website4.png)
+
+
 ## 👨‍💻 Author
 
 -   Developed by: Zaid Abu Azezi
